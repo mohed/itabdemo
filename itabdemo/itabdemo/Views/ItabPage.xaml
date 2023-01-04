@@ -33,7 +33,7 @@
                     <Label.FormattedText>
                         <FormattedString>
                             <FormattedString.Spans>
-                                <Span Text="The responce: "/>
+                                <Span Text="The response: "/>
                                 <Span Text="{Binding Response}" FontAttributes="Bold"/>
                             </FormattedString.Spans>
                         </FormattedString>

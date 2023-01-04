@@ -2,13 +2,13 @@
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
   <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.Pixel_3a_API_30_x86" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="itabdemo/itabdemo/itabdemo.csproj">
+  <MonoDevelop.Ide.Workbench ActiveDocument="itabdemo/itabdemo/Views/ItabPage.xaml">
     <Files>
-      <File FileName="itabdemo/itabdemo/ViewModels/BaseViewModel.cs" Line="1" Column="1" />
-      <File FileName="itabdemo/itabdemo/ViewModels/ItabViewModel.cs" Line="13" Column="23" />
-      <File FileName="itabdemo/itabdemo/Views/ItabPage.xaml" Line="47" Column="22" />
-      <File FileName="itabdemo/itabdemo/Services/ItabService.cs" Line="42" Column="50" />
-      <File FileName="itabdemo/itabdemo/itabdemo.csproj" Line="10" Column="64" />
+      <File FileName="itabdemo/itabdemo/ViewModels/BaseViewModel.cs" Line="20" Column="52" />
+      <File FileName="itabdemo/itabdemo/ViewModels/ItabViewModel.cs" Line="12" Column="31" />
+      <File FileName="itabdemo/itabdemo/Views/ItabPage.xaml" Line="52" Column="1" />
+      <File FileName="itabdemo/itabdemo/Services/ItabService.cs" Line="22" Column="102" />
+      <File FileName="itabdemo/itabdemo/Services/IService.cs" Line="9" Column="4" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -18,7 +18,7 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.itabdemo.Android FirstBuild="True" PreferredExecutionTarget="Android.Pixel_3a_API_30_x86" />
+  <MonoDevelop.Ide.ItemProperties.itabdemo.Android PreferredExecutionTarget="Android.Pixel_3a_API_30_x86" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
