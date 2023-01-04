@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{D8B662B1-B380-42F6-A049-11A469A67C5F}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.Pixel_3a_API_30_x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="itabdemo/itabdemo/itabdemo.csproj">
+    <Files>
+      <File FileName="itabdemo/itabdemo/ViewModels/BaseViewModel.cs" Line="1" Column="1" />
+      <File FileName="itabdemo/itabdemo/ViewModels/ItabViewModel.cs" Line="13" Column="23" />
+      <File FileName="itabdemo/itabdemo/Views/ItabPage.xaml" Line="47" Column="22" />
+      <File FileName="itabdemo/itabdemo/Services/ItabService.cs" Line="42" Column="50" />
+      <File FileName="itabdemo/itabdemo/itabdemo.csproj" Line="10" Column="64" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="itabdemo" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.itabdemo.Android FirstBuild="True" PreferredExecutionTarget="Android.Pixel_3a_API_30_x86" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.itabdemo.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.AC5063DD-B0C4-4260-9F84-B0ACDAFC8686" />
+</Properties>

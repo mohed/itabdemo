@@ -1,0 +1,16 @@
+/Users/mohed/development/itabdemo/itabdemo/itabdemo/bin/Debug/netstandard2.0/itabdemo.deps.json
+/Users/mohed/development/itabdemo/itabdemo/itabdemo/bin/Debug/netstandard2.0/itabdemo.dll
+/Users/mohed/development/itabdemo/itabdemo/itabdemo/bin/Debug/netstandard2.0/ref/itabdemo.dll
+/Users/mohed/development/itabdemo/itabdemo/itabdemo/bin/Debug/netstandard2.0/itabdemo.pdb
+/Users/mohed/development/itabdemo/itabdemo/itabdemo/obj/Debug/netstandard2.0/itabdemo.csproj.AssemblyReference.cache
+/Users/mohed/development/itabdemo/itabdemo/itabdemo/obj/Debug/netstandard2.0/itabdemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mohed/development/itabdemo/itabdemo/itabdemo/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/mohed/development/itabdemo/itabdemo/itabdemo/obj/Debug/netstandard2.0/AppShell.xaml.g.cs
+/Users/mohed/development/itabdemo/itabdemo/itabdemo/obj/Debug/netstandard2.0/itabdemo.AssemblyInfoInputs.cache
+/Users/mohed/development/itabdemo/itabdemo/itabdemo/obj/Debug/netstandard2.0/itabdemo.AssemblyInfo.cs
+/Users/mohed/development/itabdemo/itabdemo/itabdemo/obj/Debug/netstandard2.0/itabdemo.csproj.CoreCompileInputs.cache
+/Users/mohed/development/itabdemo/itabdemo/itabdemo/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/mohed/development/itabdemo/itabdemo/itabdemo/obj/Debug/netstandard2.0/itabdemo.dll
+/Users/mohed/development/itabdemo/itabdemo/itabdemo/obj/Debug/netstandard2.0/ref/itabdemo.dll
+/Users/mohed/development/itabdemo/itabdemo/itabdemo/obj/Debug/netstandard2.0/itabdemo.pdb
+/Users/mohed/development/itabdemo/itabdemo/itabdemo/obj/Debug/netstandard2.0/Views/ItabPage.xaml.g.cs

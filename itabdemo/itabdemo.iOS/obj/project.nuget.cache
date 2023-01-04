@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "uBBvPhlSupWERo7seUI8RJ95tSxHqb5+b8EZZqCOWYx9QR3UBbfDvvB2KdCVXtxUULqvn9KKyXkd9kNpXEffKw==",
+  "success": true,
+  "projectFilePath": "/Users/mohed/development/itabdemo/itabdemo/itabdemo.iOS/itabdemo.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/mohed/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/mohed/.nuget/packages/xamarin.essentials/1.7.0/xamarin.essentials.1.7.0.nupkg.sha512",
+    "/Users/mohed/.nuget/packages/xamarin.forms/5.0.0.2196/xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
